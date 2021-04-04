@@ -1,13 +1,17 @@
 ## Descripion
 This project is a PCB development of a standalone Arduino UNO compatible ATmega328p board built in [CircuitMaker](https://workspace.circuitmaker.com/Projects/Details/Farid-Oubbati-2/Algduino-Stripped)
 
-PCB 3D view:
+PCB Diagram:
 
-![PCB 3D view](pics/3Dpcb.png)
+![PCB Diagram](pics/ATmega328P_Breakout_Board.png)
 
 PCB Schematic:
 
 ![PCB Schematic](pics/Schemaic.png)
+
+PCB 3D View:
+
+![PCB 3D View](pics/3Dpcb.png)
 
 ## Bill of materials used in this project
 * 1 ATmega328p microcontroller
