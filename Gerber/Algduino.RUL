@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\ProgramData\Altium\CircuitMaker {35B49881-D8E7-4455-950B-40F95B89ECD6}\Projects\FD3F5EAA-D753-4F55-98D3-B34311B7E77E\0658dd34-6105-4315-90ef-6dd7ffea713c\Algduino.CMPcbDoc
+RuleKind=Width|RuleName=PowerNetWidth|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
